@@ -13,7 +13,7 @@ By night: field notes on building with AI agents — ship the artifact, keep the
 
 | Project | What it is |
 | --- | --- |
-| [rakazo](https://github.com/freetime-kpo/rakazo) | Open-source Grok Bot alternative — pick your own model and sandbox ([rakazo.com](https://rakazo.com)) |
+| [kpoleung.com](https://kpoleung.com) | Personal site + public Field Notes long articles |
 | Field Notes | Weekly EN podcast + notes on agent workflows, packaging, and human GO gates |
 
 ### How I work with AI (short)
